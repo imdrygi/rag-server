@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+*.sqlite3
+.qdrant_storage/
+*.docx
+*.pdf
+*.xlsx
+*.html
+*.jsonl
