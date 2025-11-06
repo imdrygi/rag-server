@@ -8,4 +8,6 @@ qdrant_storage/
 *.xlsx
 *.html
 *.jsonl
+*.json
 rag_env/
+plan.md
